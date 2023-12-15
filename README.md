@@ -25,3 +25,7 @@ Hi there i am Jared Crabbe a front end web developer whos looking to show their 
 
 ## Examples of work
 
+### Wheel Picker
+[<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdzcjVwZzBzY3lpZ29xYzR0MTFvZmNsdHQ2a3A4OTNrYzg0dXVoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DQxKxsRZDbIQhl8tdM/giphy.gif">](https://github.com/JaredCrabbe/Wheel-Picker)
+- stack: HTML, CSS, JS
+
