@@ -15,5 +15,7 @@ Skills: HTML/CSS/Js
 - 🤔 I’m looking for help with direction and tips on how to improve 
 - 📫 How to reach me: JaredDCrabbe@gmail.com
 
-![GitHub metrics](https://metrics.lecoq.io/JaredCrabbe) 
+my socials: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JaredCrabbe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jared-crabbe-524400203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Jared-david-Crabbe)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=JaredCrabbe)  
 
