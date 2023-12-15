@@ -10,8 +10,10 @@ And i am a front end web developer whos looking to show their skills in the real
 
 Skills: HTML/CSS/Js
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 I’m currently working on Learning Web Dev 
+- 🌱 I’m currently learning Javascript/React/TailwindCSS 
+- 🤔 I’m looking for help with direction and tips on how to improve 
+- 📫 How to reach me: JaredDCrabbe@gmail.com
 
 
 
