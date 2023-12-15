@@ -15,5 +15,5 @@ Skills: HTML/CSS/Js
 - 🤔 I’m looking for help with direction and tips on how to improve 
 - 📫 How to reach me: JaredDCrabbe@gmail.com
 
-
+![GitHub metrics](https://metrics.lecoq.io/JaredCrabbe) 
 
