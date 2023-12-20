@@ -33,5 +33,6 @@ Hi there i am Jared Crabbe a front end web developer whos looking to show their 
 [<img src="Untitled video - Made with Clipchamp.gif">](https://github.com/JaredCrabbe/Weather-widget/tree/main)
 - stack: HTML, CSS, JS
 
-
-
+### todo-list
+[<img src="Untitled video - Made with Clipchamp (1).gif">](https://github.com/JaredCrabbe/To-do-list/tree/main)
+- stack: HTML, CSS, JS
