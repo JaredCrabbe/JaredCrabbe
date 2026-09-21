@@ -24,35 +24,24 @@ I'm currently building my skills through hands-on projects, self-study, and my p
 
 ---
 
-🛠️ Technologies & Tools
+🖥️ Operating Systems
 
-Operating Systems
+Operating System| Experience
+🐧 Fedora Linux| Daily driver / Homelab
+🪟 Windows| PC troubleshooting & daily use
+🐧 Linux| Terminal, permissions, services & administration
 
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Fedora" (https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-"Windows" (https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+🏠 Infrastructure & Self Hosting
 
-Infrastructure & Self Hosting
-
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"Samba" (https://img.shields.io/badge/Samba-000000?style=for-the-badge&logo=samba&logoColor=white)
-"Nginx" (https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-"Plex" (https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white)
-
-Programming & Web
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"CSharp" (https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+Technology| Experience
+🐳 Docker| Container management & Docker Compose
+🌐 Nginx| Web server & reverse proxy fundamentals
+📁 Samba / SMB| Windows/Linux network file sharing
+🎬 Plex| Self-hosted media server
+💾 NAS| Linux storage, EXT4 & permissions
+🔧 Docker Compose| Multi-container service management
+🔐 Linux Permissions| Users, groups, ownership & access control
+🌐 Networking| DNS, DHCP, ports & network troubleshooting
 
 🏠 My Homelab
 
