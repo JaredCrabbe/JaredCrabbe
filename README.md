@@ -1,6 +1,6 @@
 👋 Hi, I'm Jared Crabbe
 
-🖥️ Aspiring Systems Administrator and Netowrk admin | IT Enthusiast | Homelab Builder
+🖥️ Aspiring Systems Administrator and Network admin | IT Enthusiast | Homelab Builder
 
 I'm an aspiring IT professional based in South Africa with a strong interest in systems administration, Linux, networking, cybersecurity, and infrastructure.
 
